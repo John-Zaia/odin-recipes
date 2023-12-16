@@ -1,5 +1,7 @@
 # odin-recipes
 
+[Link to the project](https://john-zaia.github.io/odin-recipes/recipes/poutine.html)
+
 This project will consist of a main webpage which will
 have links to a few recipes.
 
