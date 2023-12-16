@@ -1,9 +1,9 @@
 # odin-recipes
 
-# links 
+## links 
 [Link to the project](https://john-zaia.github.io/odin-recipes)
 
-# about
+## about
 This project will consist of a main webpage which will
 have links to a few recipes.
 
